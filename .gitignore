@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+yolo_env/
+runs/
+dataset_stop_sign/
+weights/
+yolov8n.pt
+*.pt
